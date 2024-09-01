@@ -2,4 +2,4 @@
 
 
 <br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
-Btw những file code trong đây sẽ dùng để bẻ khóa 'một số' chức năng của google, khá là bựa 😳 
+Trong đây chỉ là mấy dòng code xàm xàm thoi lmao =))
