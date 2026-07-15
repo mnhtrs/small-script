@@ -1,7 +1,6 @@
 
 # Chơi game thông qua những dòng chat của live stream của youtube
-# Đây chỉ là bản demo
-# Còn update thêm (Hỗ trợ bởi ChatGpt)
+# Đây chỉ là bản demo (bởi chatgpt)
 
 import pytchat
 import pyautogui
