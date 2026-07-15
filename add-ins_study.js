@@ -1,3 +1,7 @@
+/*
+Note: Chương trình nhỏ ôn từ mới tiếng Anh ngay trên cửa sổ console của DevTools
+*/
+
 let words_input = String(prompt("Input your new words:"))
 const quiz_system = () => {   
    const new_words = arrays => {
